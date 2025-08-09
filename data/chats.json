@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "message": "tessss",
+    "sender": {
+      "image": "/AnonimUser.png"
+    },
+    "timestamp": "2025-08-09T19:39:55.573Z",
+    "userIp": "103.247.23.0/26"
+  }
+]
